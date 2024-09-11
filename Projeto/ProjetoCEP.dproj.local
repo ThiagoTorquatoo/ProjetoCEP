@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/09/06 20:14:41.000.315,=C:\Users\thiago.torquato\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2024/09/06 20:18:05.000.917,C:\Users\thiago.torquato\Documents\Embarcadero\Studio\Projects\Unit2.dfm=D:\ProjetoCEP\Formulario\Formulario.Menu.dfm</Transaction>
+    <Transaction>2024/09/06 20:18:05.000.917,C:\Users\thiago.torquato\Documents\Embarcadero\Studio\Projects\Unit2.pas=D:\ProjetoCEP\Formulario\Formulario.Menu.pas</Transaction>
+    <Transaction>2024/09/06 20:18:27.000.602,C:\Users\thiago.torquato\Documents\Embarcadero\Studio\Projects\Project2.dproj=D:\ProjetoCEP\ProjetoCEP.dproj</Transaction>
+    <Transaction>2024/09/06 20:19:22.000.546,=D:\ProjetoCEP\Funcoes\Funcoes.Log.pas</Transaction>
+    <Transaction>2024/09/06 20:19:22.000.538,=D:\ProjetoCEP\Funcoes\Funcoes.Gerais.pas</Transaction>
+    <Transaction>2024/09/06 20:19:41.000.338,=D:\ProjetoCEP\Conexao\Datamodulo.Conexao.pas</Transaction>
+    <Transaction>2024/09/09 11:24:34.000.499,=D:\ProjetoCEP\Projeto\Formulario\Formulario.ConsultaPadrao.pas</Transaction>
+    <Transaction>2024/09/10 17:45:43.000.084,=D:\ProjetoCEP\Projeto\Unit1.pas</Transaction>
+    <Transaction>2024/09/10 17:47:06.000.396,D:\ProjetoCEP\Projeto\Funcoes\Funcoes.MontaURL.pas=D:\ProjetoCEP\Projeto\Unit1.pas</Transaction>
+    <Transaction>2024/09/10 20:51:10.000.809,=D:\ProjetoCEP\Projeto\Unit1.pas</Transaction>
+    <Transaction>2024/09/10 20:52:42.000.408,=D:\ProjetoCEP\Projeto\Unit1.pas</Transaction>
+    <Transaction>2024/09/10 20:55:09.000.953,=D:\ProjetoCEP\Projeto\Unit1.pas</Transaction>
+    <Transaction>2024/09/10 20:55:25.000.823,D:\ProjetoCEP\Projeto\Formulario\Formulario.Consulta.pas=D:\ProjetoCEP\Projeto\Unit1.pas</Transaction>
+    <Transaction>2024/09/10 20:55:25.000.823,D:\ProjetoCEP\Projeto\Formulario\Formulario.Consulta.dfm=D:\ProjetoCEP\Projeto\Unit1.dfm</Transaction>
+    <Transaction>2024/09/11 08:57:20.000.415,=C:\Projetos\ProjetoCEP\Projeto\Unit1.pas</Transaction>
+    <Transaction>2024/09/11 08:58:07.000.339,C:\Projetos\ProjetoCEP\Projeto\Funcoes\Funcoes.Enumerados.pas=C:\Projetos\ProjetoCEP\Projeto\Unit1.pas</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Conexao"/>
+    <File Path="Conexao\Datamodulo.Conexao.pas"/>
+    <File Path="Conexao\Datamodulo.Conexao.dfm"/>
+    <File Path="Formulario"/>
+    <File Path="Formulario\Formulario.Consulta.pas"/>
+    <File Path="Formulario\Formulario.Consulta.dfm"/>
+    <File Path="Formulario\Formulario.ConsultaPadrao.pas"/>
+    <File Path="Formulario\Formulario.ConsultaPadrao.dfm"/>
+    <File Path="Formulario\Formulario.Menu.pas"/>
+    <File Path="Formulario\Formulario.Menu.dfm"/>
+    <File Path="Funcoes"/>
+    <File Path="Funcoes\Funcoes.Gerais.pas"/>
+    <File Path="Funcoes\Funcoes.Log.pas"/>
+    <File Path="Funcoes\Funcoes.MontaURL.pas"/>
+    <File Path="Funcoes\Funcoes.Enumerados.pas"/>
+  </ProjectSortOrder>
+</BorlandProject>
